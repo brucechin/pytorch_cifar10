@@ -68,7 +68,7 @@ print('==> Building model..')
 # net = ShuffleNetV2(1)
 # net = EfficientNetB0()
 # net = RegNetX_200MF()
-net = SimpleDLA()
+net = LeNet()
 
 net = net.to(device)
 if device == 'cuda':
@@ -103,9 +103,9 @@ def train(epoch):
         outputs = net(inputs)
         loss = criterion(outputs, targets)
         loss.backward()
-        print('gradients =', [x.grad.data  for x in model.parameters()] )
+        # print('gradients =', [x.grad.data  for x in net.parameters()] )
         optimizer.step()
-        print('weights after backpropagation = ',   list(model.parameters())) 
+        # print('weights after backpropagation = ',   list(net.parameters())) 
 
         train_loss += loss.item()
         _, predicted = outputs.max(1)
