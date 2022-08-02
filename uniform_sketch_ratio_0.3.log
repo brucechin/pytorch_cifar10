@@ -1,0 +1,302 @@
+Epoch: 1
+epoch 1, loss 0.3457408397387935
+
+Epoch: 2
+epoch 2, loss 0.3453334683723846
+
+Epoch: 3
+epoch 3, loss 0.34492362236417395
+
+Epoch: 4
+epoch 4, loss 0.3445137372953059
+
+Epoch: 5
+epoch 5, loss 0.3441099125938122
+
+Epoch: 6
+epoch 6, loss 0.3437086318537567
+
+Epoch: 7
+epoch 7, loss 0.3433053646229691
+
+Epoch: 8
+epoch 8, loss 0.3429047403273616
+
+Epoch: 9
+epoch 9, loss 0.34250407065607397
+
+Epoch: 10
+epoch 10, loss 0.34210348644774424
+
+Epoch: 11
+epoch 11, loss 0.3417018313713852
+
+Epoch: 12
+epoch 12, loss 0.3412987157755024
+
+Epoch: 13
+epoch 13, loss 0.34089589860141223
+
+Epoch: 14
+epoch 14, loss 0.34049663333415764
+
+Epoch: 15
+epoch 15, loss 0.3400926967660357
+
+Epoch: 16
+epoch 16, loss 0.3396936942944305
+
+Epoch: 17
+epoch 17, loss 0.3392941841924403
+
+Epoch: 18
+epoch 18, loss 0.3388974257346176
+
+Epoch: 19
+epoch 19, loss 0.33849898551285706
+
+Epoch: 20
+epoch 20, loss 0.33810051821337134
+
+Epoch: 21
+epoch 21, loss 0.3377016461959404
+
+Epoch: 22
+epoch 22, loss 0.3373055503020795
+
+Epoch: 23
+epoch 23, loss 0.336910171256044
+
+Epoch: 24
+epoch 24, loss 0.336517379575713
+
+Epoch: 25
+epoch 25, loss 0.3361214076061292
+
+Epoch: 26
+epoch 26, loss 0.3357268136675283
+
+Epoch: 27
+epoch 27, loss 0.3353352252869181
+
+Epoch: 28
+epoch 28, loss 0.3349413241079478
+
+Epoch: 29
+epoch 29, loss 0.3345445107402296
+
+Epoch: 30
+epoch 30, loss 0.33414710357954147
+
+Epoch: 31
+epoch 31, loss 0.3337495438462471
+
+Epoch: 32
+epoch 32, loss 0.33335647538686203
+
+Epoch: 33
+epoch 33, loss 0.3329639935542284
+
+Epoch: 34
+epoch 34, loss 0.3325715178373887
+
+Epoch: 35
+epoch 35, loss 0.3321819990036597
+
+Epoch: 36
+epoch 36, loss 0.3317896377599767
+
+Epoch: 37
+epoch 37, loss 0.33139433721807326
+
+Epoch: 38
+epoch 38, loss 0.33100185068925475
+
+Epoch: 39
+epoch 39, loss 0.330610354008512
+
+Epoch: 40
+epoch 40, loss 0.33022255752535784
+
+Epoch: 41
+epoch 41, loss 0.3298286424980388
+
+Epoch: 42
+epoch 42, loss 0.32943809906437294
+
+Epoch: 43
+epoch 43, loss 0.3290459393757976
+
+Epoch: 44
+epoch 44, loss 0.32865455553573725
+
+Epoch: 45
+epoch 45, loss 0.328265666787671
+
+Epoch: 46
+epoch 46, loss 0.32788046902809914
+
+Epoch: 47
+epoch 47, loss 0.32749441075380625
+
+Epoch: 48
+epoch 48, loss 0.3271086112132177
+
+Epoch: 49
+epoch 49, loss 0.3267222000240228
+
+Epoch: 50
+epoch 50, loss 0.3263368284956049
+
+Epoch: 51
+epoch 51, loss 0.3259504757684842
+
+Epoch: 52
+epoch 52, loss 0.3255666559839239
+
+Epoch: 53
+epoch 53, loss 0.3251779708526437
+
+Epoch: 54
+epoch 54, loss 0.3247863470630327
+
+Epoch: 55
+epoch 55, loss 0.32439692801762515
+
+Epoch: 56
+epoch 56, loss 0.3240156298139116
+
+Epoch: 57
+epoch 57, loss 0.3236322830985104
+
+Epoch: 58
+epoch 58, loss 0.3232439283579343
+
+Epoch: 59
+epoch 59, loss 0.322858707963361
+
+Epoch: 60
+epoch 60, loss 0.32247414415239156
+
+Epoch: 61
+epoch 61, loss 0.3220918203305912
+
+Epoch: 62
+epoch 62, loss 0.321706006788399
+
+Epoch: 63
+epoch 63, loss 0.3213228447717612
+
+Epoch: 64
+epoch 64, loss 0.3209384068508215
+
+Epoch: 65
+epoch 65, loss 0.3205527282603212
+
+Epoch: 66
+epoch 66, loss 0.320168023922225
+
+Epoch: 67
+epoch 67, loss 0.31978313958558785
+
+Epoch: 68
+epoch 68, loss 0.3194037593195135
+
+Epoch: 69
+epoch 69, loss 0.3190245589708033
+
+Epoch: 70
+epoch 70, loss 0.31864464243421775
+
+Epoch: 71
+epoch 71, loss 0.31826263953118133
+
+Epoch: 72
+epoch 72, loss 0.3178779699967031
+
+Epoch: 73
+epoch 73, loss 0.3174911806643195
+
+Epoch: 74
+epoch 74, loss 0.3171099561026267
+
+Epoch: 75
+epoch 75, loss 0.3167300999048048
+
+Epoch: 76
+epoch 76, loss 0.316350656854318
+
+Epoch: 77
+epoch 77, loss 0.3159708223415237
+
+Epoch: 78
+epoch 78, loss 0.3155917182135945
+
+Epoch: 79
+epoch 79, loss 0.3152075591848279
+
+Epoch: 80
+epoch 80, loss 0.3148261104029407
+
+Epoch: 81
+epoch 81, loss 0.3144430660066391
+
+Epoch: 82
+epoch 82, loss 0.3140629394245043
+
+Epoch: 83
+epoch 83, loss 0.3136839399042801
+
+Epoch: 84
+epoch 84, loss 0.3133084643870352
+
+Epoch: 85
+epoch 85, loss 0.312925917577606
+
+Epoch: 86
+epoch 86, loss 0.31254403560337596
+
+Epoch: 87
+epoch 87, loss 0.3121635403396285
+
+Epoch: 88
+epoch 88, loss 0.3117826085758352
+
+Epoch: 89
+epoch 89, loss 0.3114058487961811
+
+Epoch: 90
+epoch 90, loss 0.3110309017043983
+
+Epoch: 91
+epoch 91, loss 0.3106595419162768
+
+Epoch: 92
+epoch 92, loss 0.310285769997281
+
+Epoch: 93
+epoch 93, loss 0.3099129930898635
+
+Epoch: 94
+epoch 94, loss 0.3095415140553305
+
+Epoch: 95
+epoch 95, loss 0.309168531979165
+
+Epoch: 96
+epoch 96, loss 0.30879786886520016
+
+Epoch: 97
+epoch 97, loss 0.30842571295200466
+
+Epoch: 98
+epoch 98, loss 0.30805621919272014
+
+Epoch: 99
+epoch 99, loss 0.30768920049377996
+
+Epoch: 100
+epoch 100, loss 0.30732165518645344
+
+Epoch: 101
+epoch 101, loss 0.3069495981600849
