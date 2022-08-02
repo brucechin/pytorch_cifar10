@@ -4,8 +4,13 @@ import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 import torch.backends.cudnn as cudnn
+<<<<<<< HEAD
 import copy
 import math
+=======
+
+
+>>>>>>> 20640e94fd9bcf2b593c308b2513963cbcc8ba1e
 import os
 import argparse
 from torch.autograd import Variable
@@ -15,6 +20,7 @@ from utils import progress_bar
 import numpy as np 
 
 parser = argparse.ArgumentParser(description='PyTorch CIFAR10 Training')
+<<<<<<< HEAD
 parser.add_argument('--lr', default=0.00005, type=float, help='learning rate')
 parser.add_argument('--lr_global', default=0.2, type=float, help='global learning rate')
 parser.add_argument('--num_clients', default=10, type=int, help='number of clients')
@@ -24,6 +30,16 @@ parser.add_argument('--sketchdim', default=0.1, type=float, help='the ratio of s
 parser.add_argument('--resume', '-r', action='store_true',
                     help='resume from checkpoint')
 parser.add_argument('--dimension', default=60, type=int, help='dimension of the function')
+=======
+parser.add_argument('--lr', default=0.03, type=float, help='learning rate')
+parser.add_argument('--num_clients', default=10, type=int, help='number of clients')
+parser.add_argument('--K', default=1, type=int, help='how many epoches between two synchronize')
+parser.add_argument('--enablesketch', default=False, type=bool, help='whether to enable sketch')
+parser.add_argument('--sketchdim', default=0.5, type=float, help='the ratio of sketch dimension / gradient dimension. Lower ratio causes lower communication but lower convergence rate')
+parser.add_argument('--resume', '-r', action='store_true',
+                    help='resume from checkpoint')
+parser.add_argument('--dimension', default=100, type=int, help='dimension of the function')
+>>>>>>> 20640e94fd9bcf2b593c308b2513963cbcc8ba1e
 args = parser.parse_args()
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -236,7 +252,6 @@ def train(epoch):
 
 
 
-
 def test(epoch):
     global best_acc
     # net.eval()
@@ -280,4 +295,3 @@ for epoch in range(start_epoch, start_epoch+200):
     train(epoch)
     # test(epoch)
     scheduler.step()
-
